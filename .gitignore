@@ -1,0 +1,58 @@
+/.metadata/
+# Maven / Gradle
+target/
+build/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Spring Boot
+*.log
+spring.log
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Eclipse Servers (Tomcat)
+Servers/
+servers/
+*.server
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled Java files
+*.class
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+application.properties
+application.yml
+
+# JSP / Servlet temp files
+work/
+temp/
+
+# Node (if frontend tools are used)
+node_modules/
+
+# Database
+*.db
+*.sqlite
+
+# Misc
+*.swp
