@@ -218,7 +218,7 @@ body {
             <i class="fa-solid fa-building"></i> Company Verification
         </a>
 
-        <a href="#">
+        <a href="adminInvoice.jsp">
             <i class="fa-solid fa-file-invoice"></i> Invoice
         </a>
 
