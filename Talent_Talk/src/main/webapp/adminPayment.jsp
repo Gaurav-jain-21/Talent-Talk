@@ -177,7 +177,7 @@ tr:not(:last-child) td {
         <a href="adminJobs.jsp"><i class="fa-solid fa-briefcase"></i> Jobs</a>
         <a href="adminCompany.jsp"><i class="fa-solid fa-building"></i> Company Verification</a>
         <a href="adminInvoice.jsp"><i class="fa-solid fa-file-invoice"></i> Invoice</a>
-        <a href="#"><i class="fa-solid fa-chart-pie"></i> Insights</a>
+        <a href="adminInsights.jsp"><i class="fa-solid fa-chart-pie"></i> Insights</a>
         <a href="adminPayment.jsp" class="active"><i class="fa-solid fa-credit-card"></i> Payments</a>
         <a href="#"><i class="fa-solid fa-gear"></i> Settings</a>
     </div>

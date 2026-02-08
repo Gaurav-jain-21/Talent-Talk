@@ -222,7 +222,7 @@ body {
             <i class="fa-solid fa-file-invoice"></i> Invoice
         </a>
 
-        <a href="#">
+        <a href="adminInsights.jsp">
             <i class="fa-solid fa-chart-pie"></i> Insights
         </a>
 
