@@ -214,7 +214,7 @@ body {
             <i class="fa-solid fa-briefcase"></i> Jobs
         </a>
 
-        <a href="#">
+        <a href="adminCompany.jsp">
             <i class="fa-solid fa-building"></i> Company Verification
         </a>
 
@@ -226,7 +226,7 @@ body {
             <i class="fa-solid fa-chart-pie"></i> Insights
         </a>
 
-        <a href="#">
+        <a href="adminPayment.jsp">
             <i class="fa-solid fa-credit-card"></i> Payments
         </a>
 

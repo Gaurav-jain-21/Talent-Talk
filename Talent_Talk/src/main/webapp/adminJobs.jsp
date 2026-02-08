@@ -148,10 +148,10 @@ body {
         <a href="adminJobs.jsp" class="active">
             <i class="fa-solid fa-briefcase"></i> Jobs
         </a>
-        <a href="#"><i class="fa-solid fa-building"></i> Company Verification</a>
+        <a href="adminCompany.jsp"><i class="fa-solid fa-building"></i> Company Verification</a>
         <a href="#"><i class="fa-solid fa-file-invoice"></i> Invoice</a>
         <a href="#"><i class="fa-solid fa-chart-pie"></i> Insights</a>
-        <a href="#"><i class="fa-solid fa-credit-card"></i> Payments</a>
+        <a href="adminPayment.jsp"><i class="fa-solid fa-credit-card"></i> Payments</a>
         <a href="#"><i class="fa-solid fa-gear"></i> Settings</a>
     </div>
 </div>
