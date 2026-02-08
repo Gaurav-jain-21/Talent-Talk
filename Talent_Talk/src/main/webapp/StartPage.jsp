@@ -116,7 +116,7 @@
             </div>
         </form>
 
-        <form action="companyLogin.jsp">
+        <form action="companyRegister.jsp">
             <div class="role-card">
                 <button class="role-btn">Company</button>
             </div>
