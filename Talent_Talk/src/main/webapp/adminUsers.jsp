@@ -210,7 +210,7 @@ body {
     <div class="menu">
         <a href="adminDashboard.jsp"><i class="fa-solid fa-chart-line"></i> Dashboard</a>
         <a href="adminUsers.jsp" class="active"><i class="fa-solid fa-users"></i> Users</a>
-        <a href="#">
+        <a href="adminJobs.jsp">
             <i class="fa-solid fa-briefcase"></i> Jobs
         </a>
 

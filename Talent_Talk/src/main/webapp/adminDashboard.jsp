@@ -172,7 +172,7 @@
             <i class="fa-solid fa-users"></i> Users
         </a>
 
-        <a href="#">
+        <a href="adminJobs.jsp">
             <i class="fa-solid fa-briefcase"></i> Jobs
         </a>
 
