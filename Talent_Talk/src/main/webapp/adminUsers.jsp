@@ -230,7 +230,7 @@ body {
             <i class="fa-solid fa-credit-card"></i> Payments
         </a>
 
-        <a href="#">
+        <a href="adminSettings.jsp">
             <i class="fa-solid fa-gear"></i> Settings
         </a>
     </div>
