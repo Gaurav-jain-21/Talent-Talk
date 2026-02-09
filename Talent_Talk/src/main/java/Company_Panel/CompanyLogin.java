@@ -19,7 +19,7 @@ public class CompanyLogin extends HttpServlet {
             HttpSession session = request.getSession();
             session.setAttribute("name", uname);
 
-            response.sendRedirect("adminDashboard.jsp");
+            response.sendRedirect("companyDashboard.jsp");
 
         } else {
             response.sendRedirect("companyLogin.jsp");
